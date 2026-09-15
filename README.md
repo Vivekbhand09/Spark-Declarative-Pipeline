@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Spark Declarative Pipelines (SDP) — Hands-on Practice
+# ⚡ Spark Declarative Pipelines (SDP) 
 
 ### Practical, working implementation of every core SDP pattern using `pyspark.pipelines`
 
